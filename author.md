@@ -1,1 +1,1 @@
-(Ng Wei Yuen)[https://github.com/nwy140]
+[Ng Wei Yuen](https://github.com/nwy140)
